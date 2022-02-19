@@ -158,7 +158,7 @@ loghandler = {
         mensagem: 'talvez esteja sendo consertado'
     }
 }
-const listkey = ["supraz", "yuna", "lhannaBot"];
+const listkey = ["supraz", "yuna", "lhannaBot", "hiquec"];
 var len = 15
         var arr = '123456789abcdefghijklmnopqrstuvwxyz'
         var random = '';
