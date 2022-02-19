@@ -62,7 +62,7 @@ loghandler = {
         criador: `${creator}`,
         code: 406,
         mensagem: 'parâmetros de entrada de apikey',
-        getApikey: 'Não tem apikey? Chame e compre sua chave por apenas 10 R$ wa.me/5593991919748'
+        getApikey: 'Não tem apikey? Chame e compre sua chave por apenas 10 R$ wa.me/5561994188919'
     },
     notkey: {
         status: false,
@@ -134,7 +134,7 @@ loghandler = {
         status: false,
         criador: `${creator}`,
         code: 406,
-        mensagem: 'apikey invalida, Não tem apikey? Chame e compre sua chave por apenas 10 R$ wa.me/5593991919748'
+        mensagem: 'apikey invalida, Não tem apikey? Chame e compre sua chave por apenas 10 R$ wa.me/5561994188919'
     },
     invalidlink: {
         status: false,
