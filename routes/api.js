@@ -184,7 +184,7 @@ var len = 15
 router.get('/find', async (req, res, next) => {
     var apikey = req.query.apikey
     if (!apikey) return res.json(loghandler.notparam)
-    if (apikey != 'supra') return res.json(loghandler.invalidKey)
+    if (apikey != 'hiquec') return res.json(loghandler.invalidKey)
 
     try {
         zahirr.find()
