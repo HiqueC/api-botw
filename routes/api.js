@@ -8,7 +8,7 @@ var zahirr = db.get("supra");
 	console.log('')
 }
 var fs = require('fs');
-var creatorList = ['@supra'];
+var creatorList = ['@Fluxo'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 
 var ytdl = require('ytdl-core');
